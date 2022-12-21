@@ -1,4 +1,2 @@
-# snake_game
-This project is basically about the snake game more info will be found in ReadMe file
- 
- Next Time I will put all the information about how step by step the game is built from scratch
+# snake_game using javascript
+Welcome to my Snake game! In this classic arcade game, you control a snake that moves around the screen, trying to collect as many food items as possible. As you eat, the snake grows longer, making it harder to avoid running into the walls or your own tail. The game is over if the snake hits a wall or its own tail, so be careful and try to outsmart your opponents! With colorful graphics and intuitive controls, our Snake game is sure to provide hours of entertainment. We hope you have fun playing!
